@@ -683,6 +683,16 @@ margin: 2px;
   width: 65px;
   height: 65px;
 }
+.about{
+  /* word-wrap: break-word;
+  max-width: 400px; */
+  display: flex;
+  font-size: 15px;
+
+  justify-content: center;
+
+
+}
 }
  
 
